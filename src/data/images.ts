@@ -1,0 +1,14 @@
+const BASE = 'https://vibe.filesafe.space/1788305080923227568/assets'
+export const RED    = `${BASE}/a3eec079-2784-4103-adbe-117130d322ef.png`
+export const BLUE   = `${BASE}/3cb983be-d891-447e-bf3b-1549ae8e3405.png`
+export const PURPLE = `${BASE}/ac4ce408-6ddc-4c8e-9f04-70c517bb9a1e.png`
+export const ORANGE = `${BASE}/4b43c211-031e-427f-83be-f70ed2ddd6dc.png`
+export const YELLOW = `${BASE}/1ecb21ae-b53e-4cc9-87c2-59e756bfb8e0.png`
+export const GREEN  = `${BASE}/ab9aaa0b-b908-4c84-bc48-149268ccd52d.png`
+export const PINK   = `${BASE}/fd03d8e0-76a8-43f5-abed-43c93e521450.png`
+export const CREAM  = `${BASE}/cebf9129-81a1-40de-b877-a77e0410d9bf.png`
+export const COFFEE = `${BASE}/a83d1b47-9244-4df9-bd0f-015fbf08f906.png`
+export const HOT_COFFEE = `${BASE}/de67bf04-5a28-411a-8573-4b0aa8d540af.png`
+export const SHAKE  = `${BASE}/d1bb6189-0c10-4205-b870-1e3e7acf523e.png`
+export const RAINBOW= `${BASE}/e162bf59-6bcd-493a-8276-9a5bf60e3782.png`
+export const COFFEE_SHAKE = `${BASE}/5e1bf285-af47-404f-bb0a-ec329a6e563a.png`
